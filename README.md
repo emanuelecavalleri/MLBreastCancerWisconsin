@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://assets.cwp.roche.com/f/126832/250x250/c0ea62d40e/clarissa.png#center"
+    src="https://media.istockphoto.com/vectors/breast-cancer-awareness-with-realistic-pink-ribbon-on-a-white-women-vector-id1176663746?k=20&m=1176663746&s=612x612&w=0&h=6pZAa7Gl51p3TySMX0YgFkOIVgf2PX7LN9MExpYeMMc=#center"
   >
 </p>
 
