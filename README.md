@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://media.istockphoto.com/vectors/national-breast-cancer-awareness-month-pink-ribbon-isolated-vector-vector-id1262757237?k=20&m=1262757237&s=612x612&w=0&h=bKDgXBt12X8cB_SMLCfEcx3GPeWU5-DkyKuXOTLPpcc=)#center"
+    src="https://assets.cwp.roche.com/f/126832/250x250/c0ea62d40e/clarissa.png#center"
   >
 </p>
 
